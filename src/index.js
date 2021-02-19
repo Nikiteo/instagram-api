@@ -1,2 +1,2 @@
 // entry point for Webpack
-import './app.js';
+import '../docs/app.js';
