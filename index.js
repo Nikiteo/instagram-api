@@ -1,2 +1,2 @@
 // entry point for Webpack
-import './inbox/app.js';
+import './app.js';
