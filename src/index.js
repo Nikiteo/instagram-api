@@ -1,2 +1,3 @@
 // entry point for Webpack
-import '../app.js';
+import './js/app';
+import './css/style.css';
